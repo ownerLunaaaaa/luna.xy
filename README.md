@@ -1,10 +1,9 @@
 ## Welcome to Luna.xy
 
-The most Powerful CSGP:External Cheat with many Undetected Options...
+The most Powerful CSGO:External Cheat with many Undetected Options...
 
-### Markdown
+### Fast Look at our Cheat
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Our Tool Options
