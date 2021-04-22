@@ -20,7 +20,7 @@ Well take a look at our Paid Ware
 -Chat Fucker
 -And many more!
 ```
-![Image](https://github.com/ownerLunaaaaa/luna.xy/blob/main/Download.jpg)
+![Image](https://github.com/ownerLunaaaaa/luna.xy/blob/main/Download.jpg?raw=true)
 
 Fore more Informations [Join our Discord](https://discord.gg/VkmRrAxv3v).
 
