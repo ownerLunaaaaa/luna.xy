@@ -20,6 +20,7 @@ Well take a look at our Paid Ware
 -Chat Fucker
 -And many more!
 ```
+![Image]()
 
 Fore more Informations [Join our Discord](https://discord.gg/VkmRrAxv3v).
 
